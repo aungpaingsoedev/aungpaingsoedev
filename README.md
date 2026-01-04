@@ -1,16 +1,86 @@
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/refs/heads/main/github-header-banner.png" alt=""/></a>
+<p align="center">
+  <a href="https://aungpaingsoe.site" target="_blank">
+    <img src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/refs/heads/main/github-header-banner.png" alt="Banner" />
+  </a>
+</p>
 
-- 🔭 I'm currently working on **MERN Stack Development**
+<h1 align="center">Hi 👋, I'm Aung Paing Soe</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | Game Dev Learner</h3>
 
-- 🌱 I'm currently learning **Game Development**
+<p align="center">
+  <a href="https://aungpaingsoe.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/aungpaingsoedev" target="_blank">
+    <img src="https://img.shields.io/github/followers/aungpaingsoedev?label=Follow&style=for-the-badge" />
+  </a>
+</p>
 
-- 👨‍💻 All of my projects are available at **[https://aungpaingsoe.site](https://aungpaingsoe.site)**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me
+
+- 🔭 Currently working on **MERN Stack Development**
+- 🌱 Learning **Game Development**
+- 🧠 Passionate about **Clean Code & Scalable Systems**
+- 👨‍💻 All projects: **[aungpaingsoe.site](https://aungpaingsoe.site)**
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://github.com/aungpaingsoedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aungpaingsoedev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aungpaingsoe097238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aungpaingsoe097238" height="30" width="40" /></a>
+  <a href="https://github.com/aungpaingsoedev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/aungpaingsoe097238" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+---
 
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,php" />
+</p>
+
+#### ☁️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,electron,docker,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aungpaingsoedev&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aungpaingsoedev&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungpaingsoedev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🎯 Current Focus
+
+- 🔥 Advanced MERN Architecture
+- 🎮 Game Development (Phaser / Unity-ready)
+- 🚀 Building real-world products
+- 💼 Scaling personal & business projects
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aungpaingsoedev&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>

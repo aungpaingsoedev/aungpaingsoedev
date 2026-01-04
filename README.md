@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aung Paing Soe</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Game Dev Learner</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://aungpaingsoe.site" target="_blank">
@@ -55,19 +55,6 @@
 #### ☁️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=aws,electron,docker,git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aungpaingsoedev&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aungpaingsoedev&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungpaingsoedev&layout=compact&theme=tokyonight" />
 </p>
 
 ---

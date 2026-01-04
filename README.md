@@ -1,7 +1,5 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/refs/heads/main/github-header-banner.png" alt=""/></a>
 
-### A Full-Stack Developer
-
 - 🔭 I'm currently working on **MERN Stack Development**
 
 - 🌱 I'm currently learning **Game Development**

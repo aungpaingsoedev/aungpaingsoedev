@@ -1,4 +1,4 @@
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/refs/heads/main/github-header-banner.png" alt="aungpaingsoe097238" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/refs/heads/main/github-header-banner.png" alt=""/></a>
 
 ### A Full-Stack Developer
 

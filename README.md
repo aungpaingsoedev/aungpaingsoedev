@@ -8,7 +8,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://aungpaingsoe.site" target="_blank">
+  <a href="https://aungpaingsoe.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   <a href="https://github.com/aungpaingsoedev" target="_blank">
@@ -23,7 +23,7 @@
 - 🔭 Currently working on **MERN Stack Development**
 - 🌱 Learning **Game Development**
 - 🧠 Passionate about **Clean Code & Scalable Systems**
-- 👨‍💻 All projects: **[aungpaingsoe.site](https://aungpaingsoe.site)**
+- 👨‍💻 All projects: **[aungpaingsoe.site](https://aungpaingsoe.dev)**
 
 ---
 

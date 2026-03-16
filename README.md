@@ -23,7 +23,7 @@
 - 🔭 Currently working on **MERN Stack Development**
 - 🌱 Learning **Game Development**
 - 🧠 Passionate about **Clean Code & Scalable Systems**
-- 👨‍💻 All projects: **[aungpaingsoe.site](https://aungpaingsoe.dev)**
+- 👨‍💻 All projects: **[aungpaingsoe.dev](https://aungpaingsoe.dev)**
 
 ---
 

@@ -6,7 +6,11 @@
 
 <h1 align="center">Hi, I'm Aung Paing Soe 👋</h1>
 <p align="center">
-  <strong>Full-Stack Developer · MERN · TypeScript · Product Builder</strong>
+  <strong>Full-Stack Developer · React · Node.js · TypeScript · MERN</strong>
+</p>
+
+<p align="center">
+  <strong>Open to full-time roles, freelance projects, and product collaborations</strong>
 </p>
 
 <p align="center">
@@ -22,7 +26,7 @@ I build practical web products with a focus on clean interfaces, maintainable co
 - 🔭 Building full-stack applications with the MERN stack
 - 🌱 Exploring game development and interactive experiences
 - 🧠 Interested in architecture, developer experience, and reliable delivery
-- 🚀 Open to collaboration on useful products and ambitious ideas
+- 🚀 Open to full-time opportunities, freelance work, and meaningful collaborations
 
 ## Featured work
 

@@ -1,16 +1,6 @@
-<p align="center">
-  <a href="https://aungpaingsoe.dev">
-    <img src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/refs/heads/main/github-header-banner.png" alt="Aung Paing Soe — Full-Stack Developer" />
-  </a>
-</p>
-
-<h1 align="center">Hi, I'm Aung Paing Soe 👋</h1>
+<h1 align="center">Aung Paing Soe</h1>
 <p align="center">
   <strong>Full-Stack Developer · React · Node.js · TypeScript · MERN</strong>
-</p>
-
-<p align="center">
-  <strong>Open to full-time roles, freelance projects, and product collaborations</strong>
 </p>
 
 <p align="center">

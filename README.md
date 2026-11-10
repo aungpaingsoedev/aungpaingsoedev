@@ -1,73 +1,50 @@
 <p align="center">
-  <a href="https://aungpaingsoe.site" target="_blank">
-    <img src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/refs/heads/main/github-header-banner.png" alt="Banner" />
+  <a href="https://aungpaingsoe.dev">
+    <img src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/refs/heads/main/github-header-banner.png" alt="Aung Paing Soe — Full-Stack Developer" />
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Aung Paing Soe</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hi, I'm Aung Paing Soe 👋</h1>
+<p align="center">
+  <strong>Full-Stack Developer · MERN · TypeScript · Product Builder</strong>
+</p>
 
 <p align="center">
-  <a href="https://aungpaingsoe.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/aungpaingsoedev" target="_blank">
-    <img src="https://img.shields.io/github/followers/aungpaingsoedev?label=Follow&style=for-the-badge" />
-  </a>
+  <a href="https://aungpaingsoe.dev">Portfolio</a> ·
+  <a href="https://linkedin.com/in/aungpaingsoe097238">LinkedIn</a> ·
+  <a href="mailto:aungpaingsoedev@icloud.com">Email</a>
 </p>
 
----
+## About me
 
-### 🚀 About Me
+I build practical web products with a focus on clean interfaces, maintainable code, and scalable systems.
 
-- 🔭 Currently working on **MERN Stack Development**
-- 🌱 Learning **Game Development**
-- 🧠 Passionate about **Clean Code & Scalable Systems**
-- 👨‍💻 All projects: **[aungpaingsoe.dev](https://aungpaingsoe.dev)**
+- 🔭 Building full-stack applications with the MERN stack
+- 🌱 Exploring game development and interactive experiences
+- 🧠 Interested in architecture, developer experience, and reliable delivery
+- 🚀 Open to collaboration on useful products and ambitious ideas
 
----
+## Featured work
 
-### 🌐 Connect With Me
+| Project | What it is |
+| --- | --- |
+| [edu-learn](https://github.com/aungpaingsoedev/edu-learn) | Learning management system UI built with Next.js, React, and Tailwind CSS |
+| [portfolio](https://github.com/aungpaingsoedev/portfolio) | Personal portfolio site built with React, Vite, and Tailwind CSS |
+| [shadcn-admin](https://github.com/aungpaingsoedev/shadcn-admin) | Responsive admin dashboard template with React, TypeScript, and shadcn/ui |
 
-<p align="left">
-  <a href="https://github.com/aungpaingsoedev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/aungpaingsoe097238" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-</p>
+## Tech stack
 
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,graphql,php,postgres,mongodb,aws,docker,git" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, NestJS, GraphQL, PHP, PostgreSQL, MongoDB, AWS, Docker, Git" />
 </p>
 
-#### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,php" />
-</p>
+## Current focus
 
-#### ☁️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,electron,docker,git" />
-</p>
-
----
-
-### 🎯 Current Focus
-
-- 🔥 Advanced MERN Architecture
-- 🎮 Game Development (Phaser / Unity-ready)
-- 🚀 Building real-world products
-- 💼 Scaling personal & business projects
-
----
+- Advanced MERN architecture
+- Production-ready APIs and frontend systems
+- Game development with Phaser and Unity-ready workflows
+- Building products that solve real problems
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aungpaingsoedev&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aungpaingsoedev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>

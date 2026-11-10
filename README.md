@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center"><img src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/main/profile-banner.png" alt="Aung Paing Soe profile banner" /></p>\n\n<div align="center">
 
 <pre>
 ┌──────────────────────────────────────────────────────────────┐

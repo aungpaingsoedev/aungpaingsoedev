@@ -1,27 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aungpaingsoedev/aungpaingsoedev/main/profile-banner.png" alt="Aung Paing Soe profile banner" />
-</p>
-
-<div align="center">
-
-<pre>
-┌──────────────────────────────────────────────────────────────┐
-│  aungpaingsoedev@github:~$ whoami                           │
-│                                                              │
-│  Aung Paing Soe                                              │
-│  Full-Stack Developer                                        │
-│                                                              │
-│  aungpaingsoedev@github:~$ status                            │
-│  [online] building useful web products                       │
-└──────────────────────────────────────────────────────────────┘
-</pre>
-
-<a href="https://aungpaingsoe.dev">Portfolio</a> ·
-<a href="https://linkedin.com/in/aungpaingsoe097238">LinkedIn</a> ·
-<a href="mailto:aungpaingsoedev@icloud.com">Email</a>
-
-</div>
-
 ## ~/about
 
 I build practical web products with clean interfaces, maintainable code, and scalable systems.
